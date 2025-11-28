@@ -1,0 +1,11 @@
+# Ntaifitness Commercial Gym Equipment Mini-Site – robots.txt
+# Last updated: 2025-11-26
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.ntaifitness.com/en/sitemap.xml
+
+# Disallow sensitive paths (none for static site)
+Disallow:
